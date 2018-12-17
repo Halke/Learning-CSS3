@@ -1,0 +1,91 @@
+<!-- Source: https://www.youtube.com/watch?v=amSQQZMBfbM -->
+<!DOCTYPE html>
+<html lang="en" dark="true">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>CSS Variables</title>
+    <style>
+        html {
+            --app-background-color: white;
+            --app-base-color: black;
+        }
+
+        html[dark] {
+            --app-background-color: black;
+            --app-base-color: white;
+        }
+
+        :root {
+            --primary-color: red;
+            --secondary-color: yellow;
+            --base-text-color: #333;
+        }
+
+        body {
+            background-color: var(--app-background-color);
+            color: var(--app-base-color);
+            margin: 50px;
+        }
+
+        .theme-component {
+            --theme-component-button: purple;
+            --theme-component-button-text: white;
+            background-color: var(--primary-color);
+            color: var(--secondary);
+            padding: 15px;
+        }
+
+        .theme-component button {
+            background-color: var(--theme-component-button);
+            color: var(--theme-component-button-text);
+        }
+
+        .text {
+            color: var(--theme-component-button-text);
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <header>
+            <h1>CSS Variables</h1>
+        </header>
+        <div class="theme-component">
+            <p>Please select a theme</p>
+            <button class="button" data-theme="default">Default</button>
+            <button class="button" data-theme="dark">Dark</button>
+        </div>
+        <p class="text">
+            Encare problemas como oportunidades. Genialidade é fruto de muito hardwork. Pra chegar ao next level você precisa de comprometimento e muito hardwork. Transforme o seu lifestyle. Ninguém lembra do médio, foque no excelente. Encare problemas como oportunidades. Transforme o seu lifestyle. Não adianta ter conhecimento se você não tem action. Felicidade é a nova produtividade. Menos desculpas e mais action. Desafie-se. Trabalho é aprendizado, tudo é um só, onelife. Never f*ing give up. Walk the f*ing talk. Construa algo que seja top. Felicidade é a nova produtividade. Viva em busca da masterização e do profissionalismo, every f*ing day. Se você não vê a oportunidade, ela passa.
+        </p>
+    </main>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            registerEvents();
+        });
+
+        function registerEvents() {
+            var button = document.querySelectorAll('.button');
+
+            button.forEach(function(btn) {
+                btn.addEventListener('click', function(e) {
+                    var theme = e.target.getAttribute('data-theme');
+                    if (theme) setTheme(theme);
+                });
+            });
+        };
+
+        function setTheme(theme) {
+            var $html = document.querySelector('html');
+
+            if (theme === 'dark') {
+                $html.setAttribute('dark', 'true');
+            } else {
+                $html.removeAttribute('dark');
+            }
+        }
+    </script>
+</body>
+</html>
