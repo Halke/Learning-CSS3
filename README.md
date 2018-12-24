@@ -52,6 +52,8 @@
  - [Nielsen Norman Group](https://www.nngroup.com/)
  - [Usability.gov](https://www.usability.gov/)
  - [UX DesignBlog](https://uxdesign.blog.br/)
+ - [Google Material.io Design](https://material.io/design/)
+ - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 ## Books
     
