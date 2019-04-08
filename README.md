@@ -152,3 +152,10 @@
     - [BrowserStack](https://www.browserstack.com/responsive)
     - [Selenium](https://www.seleniumhq.org/)
 
+
+<br><br>
+
+<p align="center">
+  <strong>Dubitando ad veritatem parvenimus..</strong>
+    <br>
+  </p>
