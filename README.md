@@ -39,6 +39,18 @@
     - [Brasil UX Design](https://brasil.uxdesign.cc/)
     - [UX Design Blog Br](https://uxdesign.blog.br/)
 
+## Best Frameworks
+ 
+   - [Bootstrap]()
+   - [Foundation](https://foundation.zurb.com/)
+   - [Bulma](https://bulma.io/)
+   - [UIKIt](https://getuikit.com/)
+   - [SemanticUI](https://semantic-ui.com/)
+   - [Skeleton](http://getskeleton.com/)
+   - [MaterializeCSS](https://materializecss.com/)
+   - [PureCSS](https://purecss.io/)
+   - [Milligram](https://milligram.io/)
+
 ## CSS Architectures
 
    - [OOCSS](http://oocss.org/)
@@ -54,30 +66,14 @@
  - [UX DesignBlog](https://uxdesign.blog.br/)
  - [Google Material.io Design](https://material.io/design/)
  - [Apple Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
- ```
- Don Norman, sobre o que significa UX
+ - <strong>Don Norman, sobre o que significa UX:</strong>
+    - Uma vez, há muito tempo atras, eu estava na Apple, e nós estávamos conversando sobre como a experiência de usar esses computadores era ruim. A experiência, da descoberta, quando você vê ele pela primeira vez ele em uma loja, quando você compra e não consegue colocar ele no carro porque a caixa é muito grande… E quando você finalmente chega em casa, abre a caixa e pensa “Ooh… Parece assustador. Eu não sei se me atreveria a montar esse computador
+    - Tudo isso é experiência do usuário. É tudo relacionado a sua experiência com o produto. E talvez você nem precise estar perto do produto, você pode estar falando sobre ele para alguém
+    - Isso é o que nós queríamos dizer quando inventamos o termo UX e criamos o que chamamos de “Escritório de Arquitetos de Experiência de Usuário” na Apple para tentar melhorar as coisas. Mas a Apple já tinha começado muito bem. Nós começávamos com um produto bom e fazíamos ele ficar ainda melhor!
+    - Hoje esse termo é terrivelmente mal utilizado. Ele é usado por pessoas para dizer “Eu sou um User Experience Designer, eu faço websites” ou “Eu faço aplicativos”. Eles não tem nem ideia do que estão fazendo, e acham que a experiência é somente aquele dispositivo, website, aplicativo ou sabe quem lá o que!!!
+    - Não, é tudo! É a forma com que você sente o mundo, é a forma que você experencia a sua vida, é a forma que você experencia um serviço, ou… sim… um aplicativo ou um sistema de computador. Mas é um sistema. É tudo!
+    - Entenderam?
 
- Uma vez, há muito tempo atras, eu estava na Apple, e nós estávamos conversando sobre como a experiência de usar esses computadores era ruim. A experiência, da descoberta, quando você vê ele pela primeira vez ele em uma loja, quando você compra e não consegue colocar ele no carro porque a caixa é muito grande… E quando você finalmente chega em casa, abre a caixa e pensa “Ooh… Parece assustador. Eu não sei se me atreveria a montar esse computador
-
- Tudo isso é experiência do usuário. É tudo relacionado a sua experiência com o produto. E talvez você nem precise estar perto do produto, você pode estar falando sobre ele para alguém
-
- Isso é o que nós queríamos dizer quando inventamos o termo UX e criamos o que chamamos de “Escritório de Arquitetos de Experiência de Usuário” na Apple para tentar melhorar as coisas. Mas a Apple já tinha começado muito bem. Nós começávamos com um produto bom e fazíamos ele ficar ainda melhor!
-
- Hoje esse termo é terrivelmente mal utilizado. Ele é usado por pessoas para dizer “Eu sou um User Experience Designer, eu faço websites” ou “Eu faço aplicativos”. Eles não tem nem ideia do que estão fazendo, e acham que a experiência é somente aquele dispositivo, website, aplicativo ou sabe quem lá o que!!!
-
- Não, é tudo! É a forma com que você sente o mundo, é a forma que você experencia a sua vida, é a forma que você experencia um serviço, ou… sim… um aplicativo ou um sistema de computador. Mas é um sistema. É tudo!
-
- Entenderam?
- ```
-
-## Books
-    
- - [Designing Web Usability](https://www.amazon.com.br/Designing-Web-Usability-Jakob-Nielsen/dp/156205810X)
- - [Não me faça pensar](https://www.amazon.com.br/N%C3%A3o-Me-Fa%C3%A7a-Pensar-Atualizado/dp/8576088509)
- - [Design para quem não é designer](https://www.amazon.com.br/Design-Para-Quem-n%C3%A3o-Designer/dp/857416836X)
- - [Elementos do Design](https://www.amazon.com.br/Elementos-Design-Guia-Estilo-Gr%C3%A1fico/dp/8577805840)
- - [Pensar com Tipos](https://www.amazon.com.br/Pensar-com-Tipos-Ellen-Lupton/dp/8540502836)
- - [100 Things Every Designer Needs to Know about People](https://www.amazon.com.br/Things-Every-Designer-Needs-People/dp/0321767535)
 
 ## Tools
 
@@ -91,7 +87,14 @@
     - [Adobe XD](https://www.adobe.com/products/xd.html)
     - [MarvelApp](https://marvelapp.com/)
     - [InvisionApp](https://www.invisionapp.com/)
- - Theory
+ - Recommended Books
+    - [Designing Web Usability](https://www.amazon.com.br/Designing-Web-Usability-Jakob-Nielsen/dp/156205810X)
+    - [Não me faça pensar](https://www.amazon.com.br/N%C3%A3o-Me-Fa%C3%A7a-Pensar-Atualizado/dp/8576088509)
+    - [Design para quem não é designer](https://www.amazon.com.br/Design-Para-Quem-n%C3%A3o-Designer/dp/857416836X)
+    - [Elementos do Design](https://www.amazon.com.br/Elementos-Design-Guia-Estilo-Gr%C3%A1fico/dp/8577805840)
+    - [Pensar com Tipos](https://www.amazon.com.br/Pensar-com-Tipos-Ellen-Lupton/dp/8540502836)
+    - [100 Things Every Designer Needs to Know about People](https://www.amazon.com.br/Things-Every-Designer-Needs-People/dp/0321767535)
+ - Theorys
     - [Gestalt](https://pt.wikipedia.org/wiki/Gestalt)
  - Acessibility
     - [Acessibilidade Toolkit](http://acessibilida.de/toolkit/)
@@ -127,7 +130,17 @@
     - [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/emliamioobfffbgcfdchabfibonehkme)
     - [Lightshot](https://chrome.google.com/webstore/detail/lightshot-screenshot-tool/mbniclmhobmnbdlbpiphghaielnnpgdp)
  - Sublime Plugins
+    - CTRL + Shift + P
+       - Select "Package Controll: Install Package"
+       - Digit Plugin Name
     - [15 Awesome Sublime Text Plugins For Web Development](https://tutorialzine.com/2016/10/15-awesome-sublime-text-plugins-for-web-development)
+       - Emmet
+       - ColorPicker
+       - Side Bar Enhancements
+       - JavaScript & NodeJS Snippets
+       - Placeholders
+       - Sublime Linter
+       - Color Highlighter
     - [The 25 Best Sublime Text Packages for Web Developers](https://colorlib.com/wp/sublime-text-plugins/)
  - Icons and Logos
     - [WeDoLogos](https://www.wedologos.com.br/)
@@ -156,6 +169,6 @@
 <br><br>
 
 <p align="center">
-  <strong>Dubitando ad veritatem parvenimus..</strong>
+  <strong>Dubitando ad veritatem parvenimus.</strong>
     <br>
   </p>
