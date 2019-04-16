@@ -133,15 +133,16 @@
     - CTRL + Shift + P
        - Select "Package Controll: Install Package"
        - Digit Plugin Name
-    - [15 Awesome Sublime Text Plugins For Web Development](https://tutorialzine.com/2016/10/15-awesome-sublime-text-plugins-for-web-development)
-       - Emmet
-       - ColorPicker
-       - Side Bar Enhancements
-       - JavaScript & NodeJS Snippets
-       - Placeholders
-       - Sublime Linter
-       - Color Highlighter
-    - [The 25 Best Sublime Text Packages for Web Developers](https://colorlib.com/wp/sublime-text-plugins/)
+          - Emmet
+          - ColorPicker
+          - Side Bar Enhancements
+          - JavaScript & NodeJS Snippets
+          - Placeholders
+          - Sublime Linter
+          - Color Highlighter
+          - HTMLAttributes
+          - JQuery
+          - All Autocomplete
  - Icons and Logos
     - [WeDoLogos](https://www.wedologos.com.br/)
     - [Icons8](https://icons8.com)
