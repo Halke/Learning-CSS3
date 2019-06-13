@@ -1,11 +1,8 @@
 ## References
 
- - <strong>Must Read :star:</strong>
-    - [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
-    - [Como os navegadores funcionam: bastidores dos navegadores modernos PT-BR](https://www.html5rocks.com/pt/tutorials/internals/howbrowserswork/)
  - Recommended Courses
     - [Origamid](https://www.origamid.com/)
- - Sites sobre Design
+ - Design
     - [Clube Design Referencias](https://clube.design/referencias/)
     - [Chief Of Design](https://www.chiefofdesign.com.br/)
     - [CSS Tricks](https://css-tricks.com/snippets/html/responsive-meta-tag/)
@@ -15,11 +12,13 @@
     - [Chocola Design](https://chocoladesign.com/)
     - [WebDesigner News](https://www.webdesignernews.com/)
     - [Smashin Magazine](https://www.smashingmagazine.com/)
- - Sites sobre CSS
+ - HTML 
+    - [A list of everything that *could* go in the head of your document](https://gethead.info/)
+ - CSS
     - [CSS W3Schools](https://www.w3schools.com/css/default.asp)
     - [Origamid Codex](https://www.origamid.com/codex/)
     - [Learn Layout](http://learnlayout.com/)
- - Persons References
+ - Persons
     - [Lea Verou](http://lea.verou.me/)
     - [Majour](http://www.maujor.com/)
  - Inspirations & Blogs
@@ -53,41 +52,6 @@
    - [MaterializeCSS](https://materializecss.com/)
    - [PureCSS](https://purecss.io/)
    - [Milligram](https://milligram.io/)
-
-## FAST HTML Tags Reference
-
- - [Mozilla Developer NetWork PT-BR](https://developer.mozilla.org/pt-BR/)
- - [A list of everything that *could* go in the head of your document](https://gethead.info/)
- - UTF-8
-    ```
-    <meta charset="utf-8">
-    ```
-    - UTF-8 (8-bit Unicode Transformation Format- informática avançada) é um tipo de codificação binária (Unicode) de comprimento variável criado por Ken Thompson e Rob Pike. Pode representar qualquer caracter universal padrão do Unicode, sendo também compatível com o ASCII. Por esta razão, está lentamente a ser adaptado como tipo de codificação padrão para email, páginas web, e outros locais onde os caracteres são armazenados.
-    - UTF-8 usa de um a quatro bytes (estritamente, octetos) por carácter, dependendo do símbolo Unicode que representa. É necessário apenas um byte para codificar os 128 caracteres ASCII (Unicode U+0000 a U+007F). São necessários dois bytes para caracteres Latinos com diacríticos. São também usados dois bytes para representar caracteres dos alfabetos Grego, Cirílico, Armênio, Hebraico, Sírio e Thaana (Unicode U+0080 a U+07FF). São necessários três bytes para o resto do Plano Multilingual Básico (que contém praticamente todos os caracteres comuns utilizados). Existem ainda outros caracteres que necessitam de quatro bytes.
-    - Quatro bytes pode parecer muito para um carácter ("code point"), mas muito raramente são utilizados. Além disso, UTF-16 (a principal alternativa ao UTF-8) necessita também de quatro bytes para estes "code points". A definição de qual dos dois é mais eficiente (UTF-8 ou UTF-16) depende da variedade de "code points" usados. Contudo, as diferenças entre os vários tipos de codificação tornam-se irrelevantes com o uso de sistemas de compressão como o DEFLATE. Para textos curtos nos quais os tradicionais algoritmos não funcionam bem e se faz necessário ter o tamanho em consideração, é geralmente usado o Esquema Padrão de Compressão para Unicode (Standard Compression Scheme for Unicode).
-    - O "Internet Engineering Task Force" (IETF) requer que todos os protocolos utilizados na Internet suportem, pelo menos, o UTF-8.
- - Responsive
-    ```
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    ```
- - Favicon
-    - [Favicon-Generator.org](https://www.favicon-generator.org/)
-    ```
-    <link rel="icon" href="img/favicon.png" />
-    ```
- - [MIME Types](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Basico_sobre_HTTP/MIME_types)
-    - O MIME type é o mecanismo para dizer ao cliente a variedade de documentos transmitidos: a extensão de um nome de arquivo não tem significado na web. Portanto, é importante que o servidor esteja configurado corretamente, de modo que o MIME-type correto seja transmitido com cada documento. Os navegadores costumam usar o MIME-type para determinar qual ação usar como padrão para fazer quando um recurso é obtido.
-    - Existem muitos tipos de documentos, por isso há muitos MIME-types. 
- - Open Graph Protocols
-   - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/sharing/?q=http%3A%2F%2Fb7web.com.br%2Fmetashare%2F)
-   - Meta Tags Post Share
-   ```
-   <meta property="og:url" content="http://b7web.com.br/metashare">
-   <meta property="og:type" content="article">
-   <meta property="og:title" content="Titulo do nosso artigo">
-   <meta property="og:description" content="descrição do artigo">
-   <meta property="og:image" content="http://b7web.com.br/metashare/titulo_teste.jpg">
-   ```
 
 ## CSS Architectures
 
@@ -203,11 +167,3 @@
     - [Codeorama](http://www.codeorama.com/responsive/)
     - [BrowserStack](https://www.browserstack.com/responsive)
     - [Selenium](https://www.seleniumhq.org/)
-
-
-<br><br>
-
-<p align="center">
-  <strong>Dubitando ad veritatem parvenimus.</strong>
-    <br>
-  </p>
